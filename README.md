@@ -5,6 +5,8 @@ This project delivers a **brand-agnostic, fully motion-controlled automation sys
 
 Unlike mechanical cam-based systems, this solution is **100% motion-driven**, enabling **high precision, scalable throughput, and minimal mechanical complexity**. Servos operate with **sub-1 ms synchronization**, ensuring smooth product transfer and stable performance.
 
+🎥 **Demo Video:** [Watch on YouTube](https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)
+
 ## Key Highlights
 - **Throughput:** 240 PPM design, 120 PPM operational  
 - **Product load:** Handles 150 g packs efficiently  
