@@ -1,4 +1,5 @@
-# 3-Servo Motion Control Automation
+# Real-Time Servo Motion Control System
+**Project: 3-Servo Motion Control Automation**<br>
 **Real-Time Industrial Automation | Modular & Scalable | HMI Powered by Orchestrix Framework**<br>
 [Orchestrix Framework (Source Included) | click here](https://github.com/sinfu98android/Orchestrix_main_framework/blob/main/README.md)
 
