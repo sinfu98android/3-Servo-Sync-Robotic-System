@@ -4,6 +4,10 @@
 This project is a brand-agnostic, 3-servo motion-controlled automation system for sorting, collecting, and cartoning products. Built end-to-end by the author, it includes PLC programming, motion logic, and hardware-to-HMI integration. <br><br>
 Unlike cam-based systems, it’s 100% motion-driven, delivering sub-1 ms synchronized servos, high precision, scalable throughput, and minimal mechanical complexity. <br><br>
 The HMI is powered by Orchestrix Framework for real-time monitoring, while motion control runs independently on ARM-based embedded controllers and PLCs. <br>
+<br>
+🎥 **Watch Demo Video:** ![Youtube link](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)<br>
+*Shows full 3-servo synchronization, cartoning flow, and production throughput.*
+
 ## Key Highlights 
 •  **High Throughput:** Designed for 240 PPM, operational at 120 PPM, with smooth, stable performance.<br>
 •  **Precision Handling:** Supports 150 g packs with sub-millisecond servo synchronization (<1 ms). <br>
@@ -26,10 +30,7 @@ The HMI is powered by Orchestrix Framework for real-time monitoring, while motio
 •	**Scalable & Flexible:** Modular, brand-agnostic architecture allows adding servos or devices without redesign, future-proofing the system. <br>
 •	**Cost Efficiency:** Supports multiple servo and PLC brands, reducing spare-part and maintenance costs by 30%+.<br>
 •	**Production-Proven:** Running continuously for over 1 year with minimal downtime, demonstrating industrial-grade robustness. <br>
-•	**Smart Operations Ready**Integrates with ERP and predictive maintenance, enabling data-driven insights and operational optimization<br><br><br>
-🎥 **Watch Demo Video:** ![Youtube link](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)<br>
-*Shows full 3-servo synchronization, cartoning flow, and production throughput.*
-
+•	**Smart Operations Ready**Integrates with ERP and predictive maintenance, enabling data-driven insights and operational optimization<br><br>
 ## Repository Contents
 - `/Technical Portfolio`→ [Full Technical Portfolio (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/3%20servo%20control%20motion%20automation%20portfolio.pdf)
  - `/plc_code` →
