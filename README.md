@@ -1,5 +1,7 @@
 # 3-Servo Motion Control Automation
-**Real-Time Industrial Automation | Modular & Scalable | HMI Powered by Orchestrix Framework**
+**Real-Time Industrial Automation | Modular & Scalable | HMI Powered by Orchestrix Framework**<br>
+[Orchestrix Framework (Source Included) | click here](https://github.com/sinfu98android/Orchestrix_main_framework/blob/main/README.md)
+
 ## Project Overview
 This project is a brand-agnostic, 3-servo motion-controlled automation system for sorting, collecting, and cartoning products. Built end-to-end by the author, it includes PLC programming, motion logic, and hardware-to-HMI integration. <br><br>
 Unlike cam-based systems, it’s 100% motion-driven, delivering sub-1 ms synchronized servos, high precision, scalable throughput, and minimal mechanical complexity. <br><br>
