@@ -33,7 +33,7 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
   
 
 ## Technical Skills & Keywords
-Motion Control | Servo Synchronization | Automation | PLC | High-Speed Cartoning | End-to-End System Design | Scalable Architecture | Production-Proven | Motion Logic | Load Balancing | Embedded Communication | Embedded Firmware| C/C++ | Linux 
+Motion Control | Servo Synchronization | Automation | PLC | High-Speed Cartoning | End-to-End System Design | Scalable Architecture | Production-Proven | Motion Logic | Load Balancing | Embedded Communication | Embedded Firmware| C/C++ | Linux | RTOS 
 
 ## Orchestrix Framework 
 Only the HMI runs on my custom Orchestrix Framework.<br>
