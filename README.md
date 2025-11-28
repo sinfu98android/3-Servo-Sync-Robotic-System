@@ -20,16 +20,17 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
 
 ## Repository Contents
 - `/Technical Portfolio`→ [Full Technical Portfolio (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/3%20servo%20control%20motion%20automation%20portfolio.pdf)
+ - `/plc_code` →
+  [PLC snippets demonstrating key control logic (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/Ladder%20PLC%201.pdf)  
+
+*Note : Github Sometimes cannot preview PDF file directly, please download to view.*
+
 - `/diagrams` <br>
 **System Architecture** ![System Architecture.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/259e614479ec7a1349ff8a2eba201c07c7efa99c/Diagrams/System%20Architecture)<br>**Machine Diagram** ![Machine Diagram.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/d6491bab851f65e82d245f7cc1f3ca3fc76f177b/Diagrams/Machine%20Diagram.jpg) <br>
   **In-line Cartoning Flow**                ![In-line Cartoning Diagram.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/d6491bab851f65e82d245f7cc1f3ca3fc76f177b/Diagrams/In-line%20Cartoning.jpg)<br>
   **Motion Logic**                 ![Motion logic diagram.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/d6491bab851f65e82d245f7cc1f3ca3fc76f177b/Diagrams/Motion%20Logic.jpg)<br>
                    
   
-- `/plc_code` →
-  [PLC snippets demonstrating key control logic (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/Ladder%20PLC%201.pdf)  
-<br><br>
-*Note : Github Sometimes cannot preview PDF file directly, please download to view.*
 
 ## Technical Skills & Keywords
 Motion Control | Servo Synchronization | Automation | PLC | High-Speed Cartoning | End-to-End System Design | Scalable Architecture | Production-Proven | Motion Logic | Load Balancing  
