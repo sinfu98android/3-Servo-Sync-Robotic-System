@@ -44,5 +44,5 @@ The Orchestrix source code is available in the single framework repository:<br>
 <br>
 
 ## Contact 
-[Linkedin link](https://www.linkedin.com/in/yudi-hariyanto-2732462a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>
+[Linkedin - Yudi Hariyanto](https://www.linkedin.com/in/yudi-hariyanto-2732462a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>
 Feel free to contact for questions, collaborations, or technical discussion
