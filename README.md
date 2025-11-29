@@ -4,10 +4,18 @@
 [Orchestrix Framework (Source Included) | click here](https://github.com/sinfu98android/Orchestrix_main_framework/blob/main/README.md)
 
 ## Project Overview
-This project is a brand-agnostic, 3-servo motion-controlled automation system for sorting, collecting, and cartoning products. Built end-to-end by the author, it includes PLC programming, motion logic, and hardware-to-HMI integration. <br><br>
-Unlike cam-based systems, it’s 100% motion-driven, delivering sub-1 ms synchronized servos, high precision, scalable throughput, and minimal mechanical complexity. <br><br>
-The HMI is powered by Orchestrix Framework for real-time monitoring, while motion control runs independently on ARM-based embedded controllers and PLCs. <br>
-<br>
+This project is a brand-agnostic, 3-servo motion-controlled robotics automation system for sorting, collecting, and cartoning products. Designed and built end-to-end, it covers everything from embedded firmware and PLC programming to motion logic and hardware-to-HMI integration.<br>
+
+Unlike traditional cam-based systems, this solution is 100% motion-driven, achieving:<br>
+
+Sub-1 ms servo synchronization<br>
+High precision and repeatability<br>
+Scalable throughput<br>
+Minimal mechanical complexity<br>
+
+The system’s HMI is powered by the Orchestrix Framework for real-time monitoring and orchestration, while motion control runs independently on ARM-based embedded controllers and PLCs, enabling modular, lightweight, and high-performance robotic control.<br>
+
+This project demonstrates expertise in real-time robotics, multi-axis motion control, embedded systems, and industrial automation, making it highly relevant for advanced robotics applications.<br><br>
 🎥 **Watch Demo Video:** ![Youtube link](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)<br>
 *Shows full 3-servo synchronization, cartoning flow, and production throughput.*
 
